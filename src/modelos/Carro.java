@@ -6,12 +6,10 @@ public class Carro extends Automovel {
 
 	public Carro() {
 		super();
-		// TODO Auto-generated constructor stub
 	}
 
 	public Carro(String marca, String modelo, String placa, int qtdMaxocupantes) {
 		super(marca, modelo, placa, qtdMaxocupantes);
-		// TODO Auto-generated constructor stub
 	}
 
 	public Carro(int qtdPortas) {
