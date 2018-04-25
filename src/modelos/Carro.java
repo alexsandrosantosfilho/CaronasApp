@@ -1,7 +1,7 @@
 package modelos;
 
 public class Carro extends Automovel {
-
+	
 	private int qtdPortas;
 
 	public Carro() {
